@@ -1,0 +1,7 @@
+Explain key concepts, tools, and roles involved in machine learning, including supervised and unsupervised learning techniques.
+
+Apply core machine learning algorithms such as regression, classification, clustering, and dimensionality reduction using Python and scikit-learn.
+
+Evaluate model performance using appropriate metrics, validation strategies, and optimization techniques. 
+
+Build and assess end-to-end machine learning solutions on real-world datasets through hands-on labs, projects, and practical evaluations.
